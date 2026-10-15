@@ -266,7 +266,7 @@ Notes:
 
 ---
 
-## Community
+## Join Our Discord
 
 - **Discord:** unosdopplegange
 - **Discord server:** https://discord.gg/MDcaC5nPuA
