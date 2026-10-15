@@ -1,5 +1,12 @@
 # Call of Duty: Modern Warfare 3 — PS3 Mod Menus (2026 Guide)
 
+---
+
+## Join Our Discord
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
+
 A definitive, credit-everyone guide to **Modern Warfare 3 (2011, IW5 engine) mod menus on the PlayStation 3** — patch compatibility, CFW/HEN support, install paths, download links, and how they were built.
 
 > ⚠️ **Read-only research.** Links are documented as found; hosts die. Where a link is gone, the status is marked honestly.
@@ -263,10 +270,3 @@ Notes:
 ---
 
 *Research compiled 2026-10-09. Link rot is aggressive in this scene — if a link is dead, the thread URL is still the right place to ask.*
-
----
-
-## Join Our Discord
-
-- **Discord:** unosdopplegange
-- **Discord server:** https://discord.gg/MDcaC5nPuA
