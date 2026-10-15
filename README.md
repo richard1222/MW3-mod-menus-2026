@@ -263,3 +263,10 @@ Notes:
 ---
 
 *Research compiled 2026-10-09. Link rot is aggressive in this scene — if a link is dead, the thread URL is still the right place to ask.*
+
+---
+
+## Community
+
+- **Discord:** unosdopplegange
+- **Discord server:** https://discord.gg/MDcaC5nPuA
